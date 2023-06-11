@@ -1,0 +1,5 @@
+agent 1 takes a step
+update agent 1's position
+agent 2 takes a step
+update agent 2's position
+update both their q values based on their current step (which is now their old step)
